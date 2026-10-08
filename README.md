@@ -4,10 +4,11 @@
 
 ### Software Engineer | AI & Full-Stack Developer
 
-Building intelligent software with **Artificial Intelligence**, **Large Language Models (LLMs)**, and scalable **Full-Stack** applications. Passionate about creating autonomous systems that solve real-world problems.
+Building intelligent software with **Artificial Intelligence, LLMs, RAG, and scalable full-stack systems**.  
+Passionate about turning real-world problems into practical software and exploring **AI agents, automation, and backend engineering**.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+Full-Stack+Developer;Building+AI-Powered+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+Full-Stack+Developer;Building+AI-Powered+Applications;Exploring+Agentic+AI;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
@@ -30,15 +31,46 @@ Building intelligent software with **Artificial Intelligence**, **Large Language
 
 ---
 
+```ini
+$ cat /etc/current_status.conf
+
+[identity]
+name        = Abhinav Yadav
+status      = open_to_work=true
+focus       = Software · AI · Backend · Full-Stack
+uptime      = caffeine-powered, 24/7
+
+[building]
+project_1   = AI-Powered Healthcare Navigation
+project_2   = InternSetu — AI Internship Platform
+project_3   = ML-Based Coal Prediction System
+
+[learning]
+next[0]     = Agentic AI + LLM Engineering
+next[1]     = RAG + Vector Databases
+next[2]     = AWS + Cloud Architecture
+next[3]     = System Design
+next[4]     = Backend Engineering
+
+[status]
+focus       = Building · Learning · Shipping
+goal        = Build production-grade intelligent systems
+
+[exit_code] = 0   # still building...
+```
+
+---
+
 # 🚀 About Me
 
-* 🎓 Final Year **B.Tech in Computer Science & Engineering**
-* 🤖 Passionate about **Artificial Intelligence**, **LLMs**, **Agentic AI**, and **Software Engineering**
-* 💻 Building scalable **Full-Stack** and **AI-powered** applications
-* ☁️ Currently learning **AWS**, **Docker**, **DevOps**, and **System Design**
-* 📚 Strong foundation in **Data Structures & Algorithms**
-* 🌱 Always exploring emerging technologies and best engineering practices
-* 🚀 Long-term goal: **Build an AI startup focused on autonomous intelligent systems**
+* 🎓 Final-year **B.Tech Computer Science & Engineering** student at **MIT World Peace University, Pune**
+* 🤖 Focused on **Artificial Intelligence, LLMs, RAG, Agentic AI, and Software Engineering**
+* 💻 Building scalable **Full-Stack, Backend, and AI-powered applications**
+* ☁️ Exploring **AWS, Docker, DevOps, Cloud Architecture, and System Design**
+* 🧠 Strong foundation in **Data Structures & Algorithms**
+* 📊 Experienced with **SQL, PostgreSQL, Tableau, and Power BI**
+* 🌱 Constantly learning new technologies and engineering practices
+* 🚀 Long-term goal: **Build intelligent autonomous systems and eventually an AI startup**
 
 ---
 
@@ -47,7 +79,7 @@ Building intelligent software with **Artificial Intelligence**, **Large Language
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts"/>
 </p>
 
 ### Frontend
@@ -56,58 +88,83 @@ Building intelligent software with **Artificial Intelligence**, **Large Language
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 </p>
 
-### Backend
+### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql"/>
+</p>
+
+### AI & Data
+
+<p>
+
+`LLMs` · `RAG` · `AI Agents` · `OpenAI` · `Machine Learning` · `SQL` · `Tableau` · `Power BI`
+
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,bash"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,firebase"/>
 </p>
 
 ---
 
 # 🌱 Currently Exploring
 
-* 🤖 Agentic AI Systems
-* 🧠 Large Language Models (LLMs)
-* ⚡ AI Automation
-* ☁️ AWS Cloud
-* 🐳 Docker & DevOps
-* 🏗️ System Design
-* 📈 Scalable Backend Architectures
-
----
-
-# 🏆 Highlights
-
-* 🏅 Smart India Hackathon Participant
-* 💻 Built Full-Stack Applications
-* 🤖 Developing AI-powered Projects
-* 📚 Strong Foundation in Data Structures & Algorithms
-* 🌍 Passionate about Open Source & Continuous Learning
+* 🤖 **Agentic AI & Autonomous Systems**
+* 🧠 **Large Language Models & LLM Engineering**
+* 🔎 **RAG & Vector Databases**
+* ⚡ **AI Automation**
+* ☁️ **AWS & Cloud Architecture**
+* 🐳 **Docker & DevOps**
+* 🏗️ **System Design & Scalable Backend Architecture**
 
 ---
 
 # 🚀 Featured Projects
 
-| Project                        | Description                             |
-| ------------------------------ | --------------------------------------- |
-| 🤖 AI Agent Platform           | Autonomous AI workflows powered by LLMs |
-| 🌐 Full-Stack Web Applications | React • Node.js • PostgreSQL            |
-| 📱 Mobile Applications         | React Native                            |
-| 📚 DSA Repository              | Data Structures & Algorithms            |
+### 🤖 InternSetu — AI-Powered Internship Platform
 
-> Replace these entries with links to your repositories as you publish them.
+**Smart India Hackathon 2025 Finalist**
+
+`Node.js` · `PostgreSQL` · `OpenAI LLM` · `REST APIs`
+
+AI-powered internship platform designed to improve how students discover and connect with relevant internship opportunities.
+
+---
+
+### 🧠 Explainable AI Healthcare Navigation
+
+`Python` · `LLMs` · `RAG` · `XAI` · `Machine Learning`
+
+AI-powered healthcare navigation platform combining LLMs, retrieval-augmented generation and machine learning to generate **evidence-backed and explainable recommendations**.
+
+---
+
+### ⛏️ ML-Based Coal Prediction System
+
+`Python` · `Machine Learning`
+
+Machine-learning based prediction system designed for coal-related forecasting, achieving approximately **89% prediction accuracy**.
+
+---
+
+# 🏆 Highlights
+
+* 🏅 **Smart India Hackathon 2025 Finalist**
+* 🎓 **Dr. Vishwanath Karad Merit Scholarship**
+* 🤖 Building AI-powered applications and intelligent systems
+* 💻 Full-Stack & Backend development experience
+* 🧠 Strong foundation in Data Structures & Algorithms
+* 📚 Research work in **AI Applications**
+* 🌍 Interested in Open Source and collaborative engineering
 
 ---
 
@@ -143,18 +200,21 @@ Building intelligent software with **Artificial Intelligence**, **Large Language
 # 🎯 2026 Goals
 
 * 🚀 Build production-ready AI applications
-* 🤖 Master Agentic AI & LLM Engineering
-* ☁️ Strengthen AWS & DevOps expertise
+* 🤖 Deepen expertise in **Agentic AI & LLM Engineering**
+* 🔎 Build advanced **RAG-based systems**
+* ☁️ Strengthen **AWS, Cloud & DevOps** skills
+* 🏗️ Improve **System Design & Backend Architecture**
 * 🌍 Contribute to impactful Open Source projects
-* 📈 Solve 500+ DSA problems
-* 💼 Secure a Software Engineering / AI Internship
-* 🏢 Launch an AI startup
+* 📈 Solve **500+ DSA problems**
+* 💼 Secure a **Software Engineering / AI internship**
+* 🏢 Eventually build an **AI-focused startup**
 
 ---
 
 # 🤝 Connect With Me
 
 <p align="center">
+
 <a href="mailto:ay1349443@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
@@ -166,6 +226,7 @@ Building intelligent software with **Artificial Intelligence**, **Large Language
 <a href="https://github.com/Abhinav1299dev">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
+
 </p>
 
 ---
@@ -174,10 +235,8 @@ Building intelligent software with **Artificial Intelligence**, **Large Language
 
 ### 💡 *"Building intelligent software that creates real-world impact."*
 
-Thank you for visiting my profile.
+**Building · Learning · Shipping**
 
-I'm always interested in collaborating on **AI**, **Full-Stack**, and **Open Source** projects.
-
-⭐ **If you like my work, consider starring my repositories!**
+⭐ If you like my work, consider starring my repositories!
 
 </div>
