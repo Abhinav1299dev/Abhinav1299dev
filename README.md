@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./abhinav-banner.png" width="100%" alt="Abhinav Yadav - Software Engineer, AI & Full-Stack Developer">
-
-<br>
+# 👋 Hi, I'm Abhinav Yadav
 
 ### Software Engineer | AI & Full-Stack Developer
 
-Building intelligent software with **AI, LLMs, RAG, and scalable full-stack systems**.
+Building intelligent software with **AI, LLMs, RAG, and scalable Full-Stack systems**.  
 Passionate about solving real-world problems through software, automation, and intelligent systems.
 
 <p align="center">
@@ -51,7 +49,7 @@ Passionate about solving real-world problems through software, automation, and i
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" alt="Programming languages">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js" alt="Programming languages">
 </p>
 
 ### Frontend
