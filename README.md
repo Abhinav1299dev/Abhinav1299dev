@@ -4,7 +4,7 @@
 <img src="./abhinav-banner.png" width="100%" alt="Abhinav Yadav - Software Engineer | AI | Full-Stack Developer">
 
 </div>
-# 👋 Hi, I'm Abhinav Yadav
+ 👋 Hi, I'm Abhinav Yadav
 
 ### Software Engineer | AI & Full-Stack Developer
 
