@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Abhinav Yadav
+#   Hi, I'm Abhinav Yadav
 
 ### Software Engineer | AI & Full-Stack Developer
 
