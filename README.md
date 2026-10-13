@@ -5,7 +5,7 @@
 ### Software Engineer | AI & Full-Stack Developer
 
 Building intelligent software with **AI, LLMs, RAG, and scalable Full-Stack systems**.  
-Passionate about solving real-world problems through software, automation, and intelligent systems.
+Passionate about solving real-world problems through software, automation, and intelligent systems
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+Full-Stack+Developer;Building+AI-Powered+Applications;Exploring+Agentic+AI;Backend+%26+Cloud+Engineering;Always+Learning+%26+Building" alt="Typing animation">
