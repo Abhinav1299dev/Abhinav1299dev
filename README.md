@@ -33,14 +33,21 @@ Passionate about solving real-world problems through software, automation, and i
 
 ## 🚀 About Me
 
-- 🎓 Final-year **B.Tech Computer Science & Engineering** student at **MIT World Peace University, Pune**
-- 🤖 Focused on **Artificial Intelligence, LLMs, RAG, Agentic AI, and Software Engineering**
-- 💻 Building **Full-Stack, Backend, and AI-powered applications**
-- ☁️ Exploring **AWS, Docker, DevOps, Cloud Architecture, and System Design**
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 📊 Experienced with **SQL, PostgreSQL, Tableau, and Power BI**
-- 🌱 Continuously learning modern technologies and engineering practices
-- 🚀 Long-term goal: **Build intelligent autonomous systems and an AI-focused startup**
+🎓 Final-year B.Tech Computer Science and Engineering student at MIT World Peace University, Pune.
+
+🤖 Interested in Artificial Intelligence, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI.
+
+💻 Developing full-stack applications, backend systems, and AI-driven solutions.
+
+☁️ Exploring AWS, Docker, DevOps, cloud architecture, and system design.
+
+🧠 Strengthening problem-solving skills through Data Structures and Algorithms (DSA).
+
+📊 Working with SQL, PostgreSQL, Tableau, and Power BI for database management and data analytics.
+
+🌱 Continuously learning and applying modern technologies, software engineering principles, and development best practices.
+
+🚀 Aspiring to build scalable intelligent systems and eventually launch an AI-focused technology startup.
 
 ---
 
