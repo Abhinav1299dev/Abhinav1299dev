@@ -120,31 +120,40 @@ Passionate about solving real-world problems through software, automation, and i
 
 ## 🚀 Featured Projects
 
-### 🤖 InternSetu — AI-Powered Internship Platform
-
+### 🤖 InternSetu — AI Internship Platform
+`Node.js` · `PostgreSQL` · `OpenAI API`
+AI-powered platform connecting students with relevant internships.
 **Smart India Hackathon 2025 Finalist**
-
-`Node.js` · `PostgreSQL` · `OpenAI LLM` · `REST APIs`
-
-AI-powered internship platform designed to connect students with relevant opportunities through intelligent matching and streamlined recruitment workflows.
 
 ---
 
 ### 🧠 Explainable AI Healthcare Navigation
-
-`Python` · `LLMs` · `RAG` · `XAI` · `Machine Learning`
-
-AI-powered healthcare navigation platform combining LLMs, retrieval-augmented generation, and machine learning to generate **evidence-backed and explainable recommendations**.
+`Python` · `LLMs` · `RAG` · `XAI`
+Provides evidence-backed, explainable healthcare recommendations.
 
 ---
 
 ### ⛏️ ML-Based Coal Prediction System
-
 `Python` · `Machine Learning`
-
-Machine-learning based prediction system for coal-related forecasting, achieving approximately **89% prediction accuracy**.
+Predicts coal-related outcomes with approximately **89% accuracy**.
 
 ---
+
+### 🏥 AyuGPT — AI Healthcare Assistant
+`Python` · `LLMs` · `AI`
+AI-powered assistant for healthcare information and guidance.
+
+---
+
+### 📊 Pharma Insights — Healthcare Analytics
+`Python` · `SQL` · `Data Analytics`
+Analyzes healthcare data to generate actionable insights.
+
+---
+
+### 🌍 IoT-Based Monitoring Systems
+`IoT` · `Sensors` · `Embedded Systems`
+Built weather reporting, flood monitoring, and fire detection systems.
 
 ## 📊 GitHub Analytics
 
