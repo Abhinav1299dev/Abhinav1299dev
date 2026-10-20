@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 14" width="1200" height="14" role="img" aria-label="divider">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff" stop-opacity="0"/><stop offset=".5" stop-color="#7c5cff"/><stop offset="1" stop-color="#00ff9c" stop-opacity="0"/></linearGradient>
+<filter id="b"><feGaussianBlur stdDeviation="2"/></filter></defs>
+<style>.dot{animation:run 3.5s cubic-bezier(.6,0,.4,1) infinite}@keyframes run{from{transform:translateX(0)}to{transform:translateX(1200px)}}</style>
+<rect x="0" y="6" width="1200" height="2" fill="url(#g)"/>
+<g class="dot"><rect x="-120" y="5" width="120" height="4" rx="2" fill="#00f0ff" filter="url(#b)"/><rect x="-60" y="6" width="60" height="2" fill="#e6fdff"/></g>
+</svg>

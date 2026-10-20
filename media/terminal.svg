@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 380" width="860" height="380" role="img" aria-label="whoami terminal" xml:space="preserve">
+<defs><linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff"/><stop offset="1" stop-color="#7c5cff"/></linearGradient></defs>
+<style>
+  text{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace;font-size:15px}
+  .pr{fill:#00ff9c}.key{fill:#00f0ff}.val{fill:#c9d6e3}.dim{fill:#4b5b6e}.ok{fill:#ffd166}
+  .ln{opacity:0;animation:show .35s ease-out forwards}
+  @keyframes show{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+  .cur{fill:#00ff9c;animation:blink 1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .title{fill:#6b7f95;font-size:13px}
+</style>
+<rect x="1" y="1" width="858" height="378" rx="12" fill="#070b14" stroke="url(#edge)" stroke-width="2"/>
+<rect x="1" y="1" width="858" height="36" rx="12" fill="#0d1422"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f57"/><circle cx="44" cy="19" r="6" fill="#febc2e"/><circle cx="64" cy="19" r="6" fill="#28c840"/>
+<text class="title" x="430" y="24" text-anchor="middle">abhinav@dev — zsh — 120×32</text>
+<g class="ln" style="animation-delay:0.40s"><text x="28" y="70"><tspan class="pr">abhinav@dev:~$ whoami</tspan></text></g><g class="ln" style="animation-delay:0.95s"><text x="28" y="96"><tspan class="val">Software Engineer — AI systems, full-stack platforms, cloud infra</tspan></text></g><g class="ln" style="animation-delay:1.50s"><text x="28" y="122"><tspan class="pr">abhinav@dev:~$ cat focus.txt</tspan></text></g><g class="ln" style="animation-delay:2.05s"><text x="28" y="148"><tspan class="key">&#160;&#160;ai&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="dim"> → </tspan><tspan class="val">LLMs · RAG pipelines · agentic workflows · evals</tspan></text></g><g class="ln" style="animation-delay:2.60s"><text x="28" y="174"><tspan class="key">&#160;&#160;backend&#160;</tspan><tspan class="dim"> → </tspan><tspan class="val">Node.js · NestJS · Python · REST/event-driven APIs</tspan></text></g><g class="ln" style="animation-delay:3.15s"><text x="28" y="200"><tspan class="key">&#160;&#160;frontend</tspan><tspan class="dim"> → </tspan><tspan class="val">React · Next.js · TypeScript · Tailwind</tspan></text></g><g class="ln" style="animation-delay:3.70s"><text x="28" y="226"><tspan class="key">&#160;&#160;data&#160;&#160;&#160;&#160;</tspan><tspan class="dim"> → </tspan><tspan class="val">PostgreSQL · Prisma · Redis · SQL analytics</tspan></text></g><g class="ln" style="animation-delay:4.25s"><text x="28" y="252"><tspan class="key">&#160;&#160;infra&#160;&#160;&#160;</tspan><tspan class="dim"> → </tspan><tspan class="val">Docker · CI/CD · AWS · GCP · Linux</tspan></text></g><g class="ln" style="animation-delay:4.80s"><text x="28" y="278"><tspan class="pr">abhinav@dev:~$ ./status --now</tspan></text></g><g class="ln" style="animation-delay:5.35s"><text x="28" y="304"><tspan class="ok">▶ building AI-powered products that solve real problems</tspan></text></g><g class="ln" style="animation-delay:5.90s"><text x="28" y="330"><tspan class="pr">abhinav@dev:~$ </tspan><tspan class="cur">█</tspan></text></g>
+</svg>
