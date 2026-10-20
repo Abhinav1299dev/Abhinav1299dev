@@ -128,8 +128,6 @@ Healthcare data analysis that turns raw records into actionable insights.
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhinav1299dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7C5CFF&text_color=C9D6E3&ring_color=00F0FF&rank_icon=github" alt="GitHub stats">
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav1299dev&hide_border=true&background=0D1117&ring=00F0FF&fire=7C5CFF&currStreakLabel=00F0FF&sideLabels=C9D6E3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7F95&stroke=1F2A3A" alt="GitHub streak">
-<br>
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav1299dev&hide_border=true&bg_color=0D1117&color=00F0FF&line=7C5CFF&point=00FF9C&area=true&area_color=7C5CFF" alt="Contribution activity graph">
 </div>
 
 <div align="center">
