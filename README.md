@@ -115,9 +115,9 @@ Healthcare data analysis that turns raw records into actionable insights.
 <br>
 
 - 🏥 **Explainable AI Healthcare Navigation** (`LLMs` · `RAG` · `XAI`): evidence-backed, explainable recommendations
-- 💬 **AyuGPT** (`LLMs`): AI assistant for healthcare information and guidance
+- 💬 **AyuGPT** (`LLMs`): AI assistant for healthcare information and guidance related to ayurveda
 - 🌐 **[MERN Stack Project](https://github.com/Abhinav1299dev/MERN-stack-project)** (`MongoDB` · `Express` · `React` · `Node`)
-- 🌍 **IoT Monitoring Systems** (`IoT` · `Embedded`): weather reporting, flood monitoring and fire detection
+- 🌍 **IoT Monitoring Systems** (`IoT` · `Embedded`): weather reporting, flood monitoring and fire detection for safety
 
 </details>
 
