@@ -97,7 +97,7 @@ AI-powered matching between candidates and internships. 🏅 **Smart India Hacka
 
 ### ⛏️ [ML Coal Prediction](https://github.com/Abhinav1299dev/Coal-prediction-ML-project)
 `Python` `Machine Learning`<br>
-Predictive model for coal-related outcomes at **~89% accuracy**.
+Predictive model for coal-related outcomes at **~89% accuracy and logistic regression and decision tree used**.
 
 </td>
 <td width="50%" valign="top">
