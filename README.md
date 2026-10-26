@@ -104,7 +104,7 @@ Predictive model for coal-related outcomes at **~89% accuracy and logistic regre
 
 ### 📊 [Pharma Insights](https://github.com/Abhinav1299dev/Pharma-Insights)
 `Python` `SQL` `Analytics`<br>
-Healthcare data analysis that turns raw records into actionable insights for data engineering and data visualizations.
+Healthcare data analysis that turns raw records into actionable insights for Data engineering and Data visualizations.
 
 </td>
 </tr>
