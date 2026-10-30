@@ -21,7 +21,7 @@
 <img src="./media/terminal.svg" width="88%" alt="whoami terminal: Software Engineer — AI systems, full-stack platforms, cloud infra">
 </div>
 
-I'm a **software engineer** who builds AI-powered products end-to-end, from the data model and API contracts to the interface and the deploy pipeline. I care about systems that are **correct, observable and built to scale**, and about turning LLMs into dependable features rather than demos.
+I'm a **software engineer** who builds AI-powered products end-to-end, from the data model and API contracts to the interface and the deploy pipeline. I care about systems that are **Correct, Observable and Built to Scale**, and about turning LLMs into dependable features rather than demos.
 
 - ⚡ **Engineering focus:** LLM applications, retrieval-augmented generation, agent workflows, and the backend platforms that run them
 - 🏗️ **How I build:** typed contracts, automated tests, CI/CD, containerised services, security and compliance from day one
