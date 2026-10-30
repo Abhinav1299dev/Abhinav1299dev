@@ -25,7 +25,7 @@ I'm a **software engineer** who builds AI-powered products end-to-end, from the 
 
 - ⚡ **Engineering focus:** LLM applications, retrieval-augmented generation, agent workflows, and the backend platforms that run them
 - 🏗️ **How I build:** typed contracts, automated tests, CI/CD, containerised services, security and compliance from day one
-- 🛰️ **Currently:** Building AI-driven support and Fintech-Platform tooling, and exploring multi-agent Orchestration
+- 🛰️ **Currently:** Building AI-driven support and Fintech-Platform tooling, and Exploring Multi-Agent Orchestration
 
 <img src="./media/divider.svg" width="100%" alt="">
 
