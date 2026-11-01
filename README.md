@@ -88,7 +88,7 @@ Benchmarks independent NLP models across diverse corpora behind one Gradio inter
 
 ### 🎯 InternSetu: AI Internship Platform
 `Node.js` `PostgreSQL` `OpenAI API`<br>
-AI-powered matching between candidates and internships. 🏅 **Smart India Hackathon 2025 Finalist.**
+AI-Powered matching between candidates and internships. 🏅 **Smart India Hackathon 2025 Finalist.**
 
 </td>
 </tr>
