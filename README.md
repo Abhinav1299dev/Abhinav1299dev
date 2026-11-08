@@ -72,7 +72,7 @@ Grounded FAQ Assistant with Rule-Based Escalation (Complaints, Transaction issue
 
 ### ⚡ [Real-Time Orders System](https://github.com/Abhinav1299dev/real-time-orders-system)
 `Node.js` `PostgreSQL` `Socket.IO`<br>
-Event-Driven Order Tracking using PostgreSQL `LISTEN/NOTIFY` to push live updates to clients over WebSockets, with no Polling.
+Event-Driven Order Tracking using PostgreSQL `LISTEN/NOTIFY` to push live updates to Cients over WebSockets, with no Polling.
 
 </td>
 </tr>
