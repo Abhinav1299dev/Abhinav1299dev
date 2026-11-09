@@ -153,7 +153,7 @@ Healthcare Data Analysis that turns raw records into actionable Insights for Dat
 
 <div align="center">
 
-### `> Building Intelligent Software that creates Real-World Impact.`
+### `> Building Intelligent Software that Creates Real-World Impact.`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=6B7F95&center=true&vCenter=true&width=500&lines=build()+%E2%86%92+learn()+%E2%86%92+ship()+%E2%86%92+repeat()" alt="build → learn → ship → repeat">
 
