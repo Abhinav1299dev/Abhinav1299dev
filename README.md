@@ -65,7 +65,7 @@ I'm a **Software Engineer** who builds AI-powered products end-to-end, from the 
 
 ### 🤖 [RBP Finivis Support Assistant](https://github.com/Abhinav1299dev/rbp-finivis-support-assistant)
 `Python` `Flask` `OpenAI` `pytest`<br>
-Grounded FAQ Assistant with Rule-Based Escalation (Complaints, Transaction issues, High-Value Transfers), refusal when the FAQ has no Answer, and Structured JSONL audit logging, Ground Based Answer.
+Grounded FAQ Assistant with Rule-Based Escalation (Complaints, Transaction issues, High-Value Transfers), refusal when the FAQ has no Answer, and Structured JSONL audit logging, Ground Based Answer
 
 </td>
 <td width="50%" valign="top">
